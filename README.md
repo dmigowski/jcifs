@@ -1,5 +1,7 @@
 # JCIFS - Java CIFS/SMB Client Library
 
+This is just a fork to push patched, better look at the [original project](https://github.com/codelibs/jcifs!
+
 [![Java CI with Maven](https://github.com/codelibs/jcifs/actions/workflows/maven.yml/badge.svg)](https://github.com/codelibs/jcifs/actions/workflows/maven.yml)
 [![Maven Central](https://img.shields.io/maven-central/v/org.codelibs/jcifs.svg?label=Maven%20Central)](https://central.sonatype.com/artifact/org.codelibs/jcifs)
 [![License: LGPL v2.1](https://img.shields.io/badge/License-LGPL%20v2.1-blue.svg)](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
