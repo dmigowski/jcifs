@@ -1,6 +1,6 @@
 # JCIFS - Java CIFS/SMB Client Library
 
-This is just a fork to push patched, better look at the [original project](https://github.com/codelibs/jcifs!
+This is just a fork to push patched, better look at the [original project](https://github.com/codelibs/jcifs)!
 
 [![Java CI with Maven](https://github.com/codelibs/jcifs/actions/workflows/maven.yml/badge.svg)](https://github.com/codelibs/jcifs/actions/workflows/maven.yml)
 [![Maven Central](https://img.shields.io/maven-central/v/org.codelibs/jcifs.svg?label=Maven%20Central)](https://central.sonatype.com/artifact/org.codelibs/jcifs)
